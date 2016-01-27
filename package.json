@@ -1,0 +1,15 @@
+{
+  "name": "buffer-loader",
+  "version": "0.0.1",
+  "description": "Buffer loader module for webpack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xicombd/buffer-loader.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}

@@ -9,7 +9,7 @@ Adapted from [binary loader](https://github.com/martijnvermaat/binary-loader).
 ## Usage
 
 ``` javascript
-var fileContent = require('buffer!./file.bin');
+var fileContent = require('buffer-loader!./file.bin');
 // => returns file.bin content as a buffer
 ```
 

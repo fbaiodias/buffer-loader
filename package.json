@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/xicombd/buffer-loader.git"
   },
+  "engines" : { "node" : ">=5.10" },
   "licenses": [
     {
       "type": "MIT",

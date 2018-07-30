@@ -1,8 +1,8 @@
-module.exports = function(content) {
-  this.cacheable && this.cacheable();
-  this.value = content;
+module.exports = function (content) {
+  this.cacheable && this.cacheable()
+  this.value = content
 
-  return 'module.exports = Buffer.from("' + content.toString('base64') + '", "base64")';
-};
+  return `module.exports = Buffer.from("${content}")`
+}
 
-module.exports.raw = true;
+module.exports.raw = true

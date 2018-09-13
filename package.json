@@ -1,12 +1,14 @@
 {
   "name": "buffer-loader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Buffer loader module for webpack",
   "repository": {
     "type": "git",
     "url": "https://github.com/xicombd/buffer-loader.git"
   },
-  "engines" : { "node" : ">=5.10" },
+  "engines": {
+    "node": ">=5.10"
+  },
   "licenses": [
     {
       "type": "MIT",
